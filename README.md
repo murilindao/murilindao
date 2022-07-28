@@ -2,8 +2,6 @@
 <img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://cdn.discordapp.com/attachments/951749489360764948/995419390361211041/6da3ee3848e7d5b49bea3a45824631b7.jpg?width=416&height=410)" width="230">
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/murilindao?label=follow&style=social)](https://github.com/murilindao)
 
 
