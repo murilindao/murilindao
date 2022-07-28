@@ -10,7 +10,7 @@
 ```javascript
 const muri = {
   pronouns: "muri" | "kakau",
-  code: [Javascript, Ruby, Python, assembly, xanascript],
+  code: [Javascript, Ruby, Python, Assembly, Xanascript],
 }
 ```
 
