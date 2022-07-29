@@ -3,6 +3,7 @@
 </em></p>
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/murilindao?label=follow&style=social)](https://github.com/murilindao)
+<img src="https://komarev.com/ghpvc/?username=murilindao&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
